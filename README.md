@@ -6,3 +6,8 @@ Sample hello world node project for google cloud function
 npm install
 ```
 
+## Deployment to GCP
+```bash
+gcloud functions deploy ulan-helloHttp --runtime nodejs16 --trigger-http 
+```
+
