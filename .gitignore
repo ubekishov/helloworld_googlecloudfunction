@@ -1,4 +1,14 @@
 *.git
+*.gitignore
 *lock*
 .gcloudignore
-nodemodules
+node_modules
+logs
+coverage
+.npm
+.cache/
+.env
+dist
+.vscode-test
+*.log
+
