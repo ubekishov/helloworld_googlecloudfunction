@@ -1,3 +1,4 @@
-.git
-.lock
-.gcloudignore
+*.git
+*.lock
+*.gcloudignore
+nodemodules
