@@ -1,5 +1,5 @@
 *.git
-*.gitignore
+.gitignore
 *lock*
 .gcloudignore
 node_modules
